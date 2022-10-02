@@ -50,5 +50,5 @@ function copyPassword() {
   textarea.select();
   document.execCommand("copy");
   textarea.remove();
-  alert("Password copied to clipboard");
+  alert("Password copied");
 }
