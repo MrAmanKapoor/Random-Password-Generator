@@ -16,7 +16,7 @@
     padding: 40px;
     background-color: #6b6f2f;
     color: white;
-    font-size: 16px;
+    font-size: 15px;
     font-family: sans-serif;
     border-radius: 10px;
   }
@@ -35,7 +35,7 @@
   }
   
   .password p {
-    padding: 6px 9px;
+    padding: 7px 9px;
     border-radius: 10px;
   }
   
