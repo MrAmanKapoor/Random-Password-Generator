@@ -52,3 +52,16 @@ function copyPassword() {
   textarea.remove();
   alert("Password Successfully copied");
 }
+
+
+// function copyPassword() {
+//   const textarea = document.createElement("textarea");
+//   const password = document.getElementById("passwordBox").innerText;
+//   if (!password) { return; }
+//   textarea.value = password;
+//   document.body.appendChild(textarea);
+//   textarea.select();
+//   document.execCommand("copy");
+//   textarea.remove();
+//   alert("Password Successfully copied");
+// }
